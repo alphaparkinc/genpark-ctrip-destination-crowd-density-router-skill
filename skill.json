@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ctrip-destination-crowd-density-router-skill",
+  "version": "1.0.0",
+  "description": "GenPark Ctrip Destination Crowd Density Router - Optimizes real-time attraction visitor dispersion and queueing wait times using queuing theory and dynamic heatmap routing.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "ctrip",
+    "crowd-density",
+    "smart-tourism",
+    "queue-optimization",
+    "mcp"
+  ]
+}
